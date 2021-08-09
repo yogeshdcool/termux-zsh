@@ -11,9 +11,9 @@ alias rf='rm -rf'
 # List directory contents
 # Changing "ls" to "exa"
 alias ls='exa --color=always --group-directories-first'
-alias la='exa -a --color=always --group-directories-first'
+alias lh='exa -a --color=always --group-directories-first'
 alias ll='exa -l --color=always --group-directories-first'
-alias lh='exa -al --color=always --group-directories-first'
+alias la='exa -al --color=always --group-directories-first'
 alias lt='exa -aT --color=always --group-directories-first'
 
 alias cr='cp -r'
